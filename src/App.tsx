@@ -58,7 +58,7 @@ function Navbar() {
             <Link to="/" className="flex items-center gap-2">
               <span className="text-2xl">🏺</span>
               <h1 className="text-2xl font-bold tracking-tight text-black">
-                Chakravyuh
+                Craftify
               </h1>
             </Link>
             {isLoggedIn && (
@@ -244,7 +244,7 @@ function Navbar() {
       </main>
 
       <footer className="bg-white border-t border-gray-200 text-center py-6 mt-12">
-        <p className="text-sm text-gray-500">© 2024 Chakravyuh Artisan Marketplace. Handcrafted with love.</p>
+        <p className="text-sm text-gray-500">© 2024 Craftify. Handcrafted with love.</p>
       </footer>
     </>
   )

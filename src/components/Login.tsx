@@ -51,8 +51,8 @@ function Login({ onLogin }: LoginProps) {
           >
             🏺
           </motion.div>
-          <h1 className="text-4xl font-bold text-black mb-2">Chakravyuh</h1>
-          <p className="text-gray-500">Artisan Marketplace</p>
+          <h1 className="text-4xl font-bold text-black mb-2">Craftify</h1>
+          <p className="text-gray-500">Handcrafted Marketplace</p>
         </div>
 
         {/* Login Form */}

@@ -12,6 +12,7 @@ const glazeColors = [
   { name: 'Matte Black', value: '#1a1a1a', roughness: 0.9 },
   { name: 'Charcoal Gray', value: '#36454F', roughness: 0.7 },
   { name: 'Pearl White', value: '#F5F5F5', roughness: 0.3 },
+  
   { name: 'Warm Gray', value: '#A89F91', roughness: 0.6 },
   { name: 'Slate', value: '#2F4F4F', roughness: 0.5 },
   { name: 'Taupe', value: '#8B8589', roughness: 0.5 },
